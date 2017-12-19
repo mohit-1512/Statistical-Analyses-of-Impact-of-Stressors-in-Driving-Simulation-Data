@@ -32,7 +32,8 @@ ing rate, and heart rate.
 The purpose of the project is to ensure the validity of the dataset. Using sta-
 tistical tests we need to determine which of these measures signify significant
 elevation of stress and which are not, and comment on the results.
--------------------------------------------------------------------------------------
+
+
 This project is divided in two parts:
 
 Part 1
