@@ -1,7 +1,9 @@
 # Statistical Analyses of Impact of Stressors in Driving Simulation Data
 
 Language Used- R
+-----------------
 Problem Statement:
+-----------------
 The dataset is acquired by carrying out a controlled experiment on a driv-
 ing simulator where n=68 volunteers drove under four different conditions:
 No distraction, cognitive distraction, emotional distraction, and sensorimo-
@@ -28,8 +30,9 @@ logical measures in such cases. In this simulation, the physiological measures
 recorded for this purpose include: perinasal perspiration, palm EDA, breath-
 ing rate, and heart rate.
 The purpose of the project is to ensure the validity of the dataset. Using sta-
-tistical tests we need to determine which of these measures signify signicant
+tistical tests we need to determine which of these measures signify significant
 elevation of stress and which are not, and comment on the results.
+-------------------------------------------------------------------------------------
 This project is divided in two parts:
 
 Part 1
